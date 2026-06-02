@@ -13,3 +13,6 @@ __pycache__.py
 FeuilleDeRoute.md
 
 data_raw/
+
+.vscode/
+
