@@ -1,0 +1,15 @@
+#Variables d'environnement
+.env
+
+#Environnement virtuel python
+venv/
+.venv/
+env/
+__pycache__.py
+*.pyc
+
+*:ZoneIdentifier
+
+FeuilleDeRoute.md
+
+data_raw/
